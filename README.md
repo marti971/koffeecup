@@ -1,6 +1,9 @@
-# Koffeecup
+# Koffeecup - image gallery
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
+
+##Installing
+Run `npm install` to install all packages.
 
 ## Development server
 
